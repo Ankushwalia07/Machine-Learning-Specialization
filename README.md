@@ -45,4 +45,4 @@ Follow the instructions below to kickstart your learning journey:
 1. **Clone the Repository:** Start by cloning this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/machine-learning-specialization.git
+   git clone https://github.com/Ankushwalia07/machine-Learning-Specialization.git
